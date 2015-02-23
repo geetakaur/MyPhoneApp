@@ -1,2 +1,3 @@
 # MyPhoneApp
 Phonegap app
+hello
