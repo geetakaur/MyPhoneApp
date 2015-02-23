@@ -1,0 +1,2 @@
+# MyPhoneApp
+Phonegap app
